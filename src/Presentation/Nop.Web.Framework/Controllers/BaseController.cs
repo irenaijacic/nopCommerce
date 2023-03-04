@@ -131,7 +131,7 @@ namespace Nop.Web.Framework.Controllers
             });
         }
         /// <summary>
-        /// Display "Edit" (manage) link (in public store)
+      
         /// </summary>
         /// <param name="editPageUrl">Edit page URL</param>
         protected virtual void DisplayEditLink(string editPageUrl)
